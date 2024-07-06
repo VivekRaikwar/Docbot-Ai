@@ -1,0 +1,4 @@
+aspose-pdf
+groq
+dotenv
+streamlit
