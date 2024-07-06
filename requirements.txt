@@ -1,4 +1,4 @@
 aspose-pdf
 groq
-dotenv
+python-dotenv
 streamlit
